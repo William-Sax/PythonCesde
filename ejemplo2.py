@@ -8,7 +8,7 @@ if(pregunta==1 or pregunta<=21):
     print(f"En el mes {meses[0]} la estacion es {estaciones[1]}")
     
 elif(pregunta==21 or pregunta<=31):
-    print(f"En el mes {meses[0]} la estacion es {estaciones[1]}")
+    print(f"En el mes  {meses[0]} la estacion es {estaciones[1]}")
     
 elif(pregunta==32 or pregunta<=59):
     print(f"En el mes {meses[1]} la estacion es {estaciones[1]}")
